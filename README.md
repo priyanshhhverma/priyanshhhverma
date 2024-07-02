@@ -49,3 +49,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshhhverma&theme=dark&hide_border=false" alt="GitHub Streak"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhverma&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhverma&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
